@@ -622,7 +622,12 @@ img.windows {
         margin-bottom: 10px;
         font-size: 14px;
     }
-
+    .newsletter .form-control {
+        width: 210px;
+}
+.newsletter .submit {
+    width: 90px;
+}
     .carousel-control {
         display: none;
     }
@@ -632,7 +637,9 @@ img.windows {
         width: 85%;
         position: initial;
     }
-
+    .carousel-indicators {
+        bottom: 0;
+    }
     .topgeo {
         line-height: 23px;
     }
@@ -646,6 +653,9 @@ img.windows {
         width: 150px;
         height: auto;
         margin: 0 auto 20px;
+    }
+    .scl {
+        margin-top: 1.2em;
     }
 
     .social {
